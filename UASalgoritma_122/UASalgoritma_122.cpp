@@ -107,7 +107,7 @@ int main() {
 
 
 
-// 2. - algoritma perulangan do while, insertion
+// 2. - algoritma insertion sort
 
 // 3. algoritma stack adalah algoritma mengoleksi data dengan sistem last in first out(lifo) atau yang terakhir masuk yang pertama keluar dan queue adalah algoritma kebalikan dari algoritma stack atau first in first out
 //4. untuk undo dan redo dibatasi dimana ketika fungsi di eksekusi maka informasi akan di hapus kemudian stack dan pemograman akan kembali ke fungsi sebelumnya
